@@ -1,0 +1,6 @@
+Dear Childhealthhope 
+Find below the integration details for Childhealthhope. 
+You will need this if you are integrating into your website or are planning to sell on a platform that uses Pesapal for payments 	
+1	PesaPal Consumer Key: UM18cvrTd67NKtQEv1/skJkobjoPe21w 	
+2	PesaPal Consumer Secret: MvVkz+SaVbwtR8RxQY9cfW2sx8k= 
+Only share this email with a trusted party for integration purpose only.
