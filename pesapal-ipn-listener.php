@@ -8,8 +8,9 @@ include_once('.env.php');
 // $consumer_secret="MvVkz+SaVbwtR8RxQY9cfW2sx8k=";// Use the secret from your test
 //                    //account on demo.pesapal.com. When you are ready to go live make sure you 
 //                    //change the secret to the live account registered on www.pesapal.com!
-$statusrequestAPI = 'http://demo.pesapal.com/api/querypaymentstatus';//change to      
-                   //https://www.pesapal.com/api/querypaymentstatus' when you are ready to go live!
+$statusrequestAPI = 
+// 'http://demo.pesapal.com/api/querypaymentstatus';//change to      
+                   'https://www.pesapal.com/api/querypaymentstatus'; //when you are ready to go live!
 
 // Parameters sent to you by PesaPal IPN
 $pesapalNotification=$_GET['pesapal_notification_type'];
